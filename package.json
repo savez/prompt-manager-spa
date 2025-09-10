@@ -1,0 +1,16 @@
+{
+  "name": "prompt-manager-spa",
+  "version": "1.0.0",
+  "description": "SPA per gestire prompt AI con Vue 3",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx live-server --port=3000",
+    "build": "echo 'No build process required for this SPA'"
+  },
+  "keywords": ["vue", "prompt", "manager", "spa"],
+  "author": "Saverio Menin",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
