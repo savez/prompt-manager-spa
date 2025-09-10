@@ -238,6 +238,9 @@ body {
 .text-muted-custom {
     color: var(--text-muted);
 }
+.text-muted {
+    color: var(--text-muted);
+}
 
 .border-bottom-light {
     border-bottom: 1px solid var(--border-color);
