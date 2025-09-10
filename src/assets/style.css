@@ -239,7 +239,7 @@ body {
     color: var(--text-muted);
 }
 .text-muted {
-    color: var(--text-muted);
+    color: var(--text-muted) !important;
 }
 
 .border-bottom-light {
